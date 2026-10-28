@@ -1,4 +1,4 @@
-https://github.com/SANDMAN396/informatique/actionshttps://app.uniswap.org/limit![Travis badge](https://travis-ci.org/Firstbloodio/token.svg?branch=master)
+/actionshttps://app.uniswap.org/limit![Travis badge](https://travis-ci.org/Firstbloodio/token.svg?branch=master)
 
 <img src = "https://cdn-images-1.medium.com/max/1200/1*vSRfNm_bX1C6ntGFqfFX4A.png" width = "30%">
 
